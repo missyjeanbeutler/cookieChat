@@ -31,3 +31,25 @@ p{
   margin: 3px 0;
   font-size: 17px;
 }
+
+.wholeMessage {
+  border: 1px solid black;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin: 20px;
+}
+
+.message {
+  margin-bottom: 10px;
+
+}
+
+.timeCookie {
+  font-size: 1.2rem;
+  color: #888;
+  letter-spacing: 1px;
+
+
+}
